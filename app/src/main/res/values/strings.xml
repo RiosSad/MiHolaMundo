@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiHolaMundo</string>
+    <string name="lbl_gretiing">Gretiing!</string>
+    <string name="btnroller">Roller</string>
+</resources>
